@@ -47,5 +47,6 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 
 ## Other web audio lists
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
+- [Audiocrawl](http://audiocrawl.co/) - A showcase of web audio projects with the possibility of signing up for a monthly newsletter.
 - [Web Audio/MIDI Demo List](http://webaudio.github.io/demo-list/) - A list kept by the W3C audio working group.
 - [10 Virtual Instruments on Browser](http://www.hongkiat.com/blog/virtual-instrument-web-browser/) - 10 Virtual Instruments You Can Play In Your Web Browser.
