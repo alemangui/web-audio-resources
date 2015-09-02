@@ -39,6 +39,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 ## Fun and interesting projects
 - [Jam with Chrome](http://www.jamwithchrome.com/) - A collaborative live music web application.
 - [Plink](http://dinahmoelabs.com/_plink/) - Multiplayer music experience.
+- [Recreating the ring modulator with web audio](http://webaudio.prototyping.bbc.co.uk/ring-modulator/) - An article on coding the device used to create the voices of the Daleks and the Cybermen in Dr. Who.
 - [Drum machine](http://html5drummachine.com/) - Drum machine with several different drumkits.
 - [Pedalboard](https://github.com/dashersw/pedalboard.js) - Guitar pedal effects simulation.
 - [Wave-PD1](http://alxgbsn.co.uk/wavepad/) - A themerin-like instrument for the browser.
