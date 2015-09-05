@@ -8,6 +8,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Web audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html) - An e-book by Boris Smud.
 - [Noisehack](http://noisehack.com/) - A Blog about audio programming with plenty of articles about web audio api.
 - [Building a virtual synth pad](http://www.sitepoint.com/html5-web-audio-api-tutorial-building-virtual-synth-pad/) - Tutorial to build a virtual synth pad that will play audio samples and provide a reverb feature.
+- [Web audio playground](http://webaudioplayground.appspot.com/) - A graphic builder of an audio context graph. Helps visualize the way connections are made between web audio nodes.
 - [Web audio for games](http://www.html5rocks.com/en/tutorials/webaudio/games/) Web audio techniques applied to game development.
 - [Peaks.js explained](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms) - Article on the development of Peaks.js, an audio waveform rendering tool for the browser.
 - [Guitar tuner tutorial](https://aerotwist.com/blog/guitar-tuner/) - Create a guitar tuner with web audio and Polymer
