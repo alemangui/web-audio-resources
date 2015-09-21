@@ -23,6 +23,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Wad](https://github.com/rserota/wad) - Library for manipulating audio with web audio.
 - [Tuna](https://github.com/Theodeus/tuna) - Audio effects library.
 - [Blip](https://github.com/jshanley/blip) - Lightweight web audio wrapper.
+- [Soundio](https://github.com/soundio/soundio) - Soundio is a Graph Object Model for Web Audio processing graphs. It also provides a JSONify-able structure for exporting and importing them.
 - [Theresa's sound world](https://github.com/stuartmemo/theresas-sound-world) - Library for manipulating audio built on top of the web audio API.
 - [Musical](https://github.com/PencilCode/musical.js) - A light library with a sequencing synthesizer that supports ABC notation.
 
@@ -40,6 +41,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 ## Fun and interesting projects
 - [Jam with Chrome](http://www.jamwithchrome.com/) - A collaborative live music web application.
 - [Plink](http://dinahmoelabs.com/_plink/) - Multiplayer music experience.
+- [sound.io](https://sound.io/) - A live-performance Web Audio tool which allows on-the-fly modification of audio.
 - [Recreating the ring modulator with web audio](http://webaudio.prototyping.bbc.co.uk/ring-modulator/) - An article on coding the device used to create the voices of the Daleks and the Cybermen in Dr. Who.
 - [Drum machine](http://html5drummachine.com/) - Drum machine with several different drumkits.
 - [Pedalboard](https://github.com/dashersw/pedalboard.js) - Guitar pedal effects simulation.
