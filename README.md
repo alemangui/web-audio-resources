@@ -26,6 +26,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Soundio](https://github.com/soundio/soundio) - Soundio is a Graph Object Model for Web Audio processing graphs. It also provides a JSONify-able structure for exporting and importing them.
 - [Theresa's sound world](https://github.com/stuartmemo/theresas-sound-world) - Library for manipulating audio built on top of the web audio API.
 - [Musical](https://github.com/PencilCode/musical.js) - A light library with a sequencing synthesizer that supports ABC notation.
+- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 
 ## Visualization
 - [Wavesurfer.js](http://wavesurfer-js.org/) - Waveform audio visualization built on top of Web Audio API and HTML5 Canvas.
