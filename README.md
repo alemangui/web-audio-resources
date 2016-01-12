@@ -24,6 +24,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Wad](https://github.com/rserota/wad) - Library for manipulating audio with web audio.
 - [Tuna](https://github.com/Theodeus/tuna) - Audio effects library.
 - [Blip](https://github.com/jshanley/blip) - Lightweight web audio wrapper.
+- [Pizzicato](https://github.com/alemangui/pizzicato)<sup>[*](#disclosure)</sup> - A library that aims to simplify the way you create and manipulate sounds with the Web Audio API.
 - [Soundio](https://github.com/soundio/soundio) - Soundio is a Graph Object Model for Web Audio processing graphs. It also provides a JSONify-able structure for exporting and importing them.
 - [Theresa's sound world](https://github.com/stuartmemo/theresas-sound-world) - Library for manipulating audio built on top of the web audio API.
 - [Musical](https://github.com/PencilCode/musical.js) - A light library with a sequencing synthesizer that supports ABC notation.
@@ -43,6 +44,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 ## Fun and interesting projects
 - [Jam with Chrome](http://www.jamwithchrome.com/) - A collaborative live music web application.
 - [Plink](http://dinahmoelabs.com/_plink/) - Multiplayer music experience.
+- [Modulator](http://lcrespom.github.io/synth/) - An editable graphical node synth.
 - [sound.io](https://sound.io/) - A live-performance Web Audio tool which allows on-the-fly modification of audio.
 - [Drums](https://mikedotalmond.github.io/drums/) - A 16-step, 8-track, drum sequencer with per-step sample controls.
 - [Recreating the ring modulator with web audio](http://webaudio.prototyping.bbc.co.uk/ring-modulator/) - An article on coding the device used to create the voices of the Daleks and the Cybermen in Dr. Who.
@@ -58,3 +60,5 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) - A curated list of Web Audio packages and demos.
 - [Web Audio/MIDI Demo List](http://webaudio.github.io/demo-list/) - A list kept by the W3C audio working group.
 - [10 Virtual Instruments on Browser](http://www.hongkiat.com/blog/virtual-instrument-web-browser/) - 10 Virtual Instruments You Can Play In Your Web Browser.
+
+<a name="disclosure">*</a>: Full disclosure: I am the author of this library.
