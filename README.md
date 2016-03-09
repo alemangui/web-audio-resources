@@ -53,6 +53,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Wave-PD1](http://alxgbsn.co.uk/wavepad/) - A themerin-like instrument for the browser.
 - [Wavepot](http://wavepot.com/) - A live digital signal processor (DSP) editor built with web audio.
 - [Dancing cube](http://dancing-cube.neribarnini.me/) - Three-dimensional cubes move with music using Three.js and web audio.
+- [Tonalhub](https://alemangui.github.io/Tonalhub/)<sup>[*](#disclosure)</sup> - Hear a web audio representation of the last year's commit activity of a given GitHub user and repository.
 
 ## Other web audio lists
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
@@ -62,4 +63,4 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [10 Virtual Instruments on Browser](http://www.hongkiat.com/blog/virtual-instrument-web-browser/) - 10 Virtual Instruments You Can Play In Your Web Browser.
 - [Output Channel](http://outputchannel.com) - A blog featuring Web Audio tutorials and demos/reviews.
 
-<a name="disclosure">*</a>: Full disclosure: I am the author of this library.
+<a name="disclosure">*</a>: Full disclosure: I am the author of these items.
