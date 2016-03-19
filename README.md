@@ -42,6 +42,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Midi synth](http://webaudiodemos.appspot.com/midi-synth/) - Analog synthesizer simulation loosely based on the architecture of a Moog Prodigy synthesizer.
 
 ## Fun and interesting projects
+- [Chrome music lab](https://musiclab.chromeexperiments.com/) - Web Audio experiments aimed at making learning music more accessible to everyone.
 - [Jam with Chrome](http://www.jamwithchrome.com/) - A collaborative live music web application.
 - [Plink](http://dinahmoelabs.com/_plink/) - Multiplayer music experience.
 - [Modulator](https://lcrespom.github.io/synth/) - An editable graphical node synth.
