@@ -55,8 +55,9 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Dancing cube](http://dancing-cube.neribarnini.me/) - Three-dimensional cubes move with music using Three.js and web audio.
 - [Tonalhub](https://alemangui.github.io/Tonalhub/)<sup>[*](#disclosure)</sup> - Hear a web audio representation of the last year's commit activity of a given GitHub user and repository.
 
-## Other web audio lists
+## Other web audio lists and resources
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
+- [Web Audio Weekly by Chris Lowis](http://tinyletter.com/webaudioweekly) - A weekly newsletter with hints, tips, links and news related to the Web Audio world.
 - [Audiocrawl](http://audiocrawl.co/) - A showcase of web audio projects with the possibility of signing up for a monthly newsletter.
 - [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) - A curated list of Web Audio packages and demos.
 - [Web Audio/MIDI Demo List](http://webaudio.github.io/demo-list/) - A list kept by the W3C audio working group.
