@@ -55,6 +55,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Wavepot](http://wavepot.com/) - A live digital signal processor (DSP) editor built with web audio.
 - [Dancing cube](http://dancing-cube.neribarnini.me/) - Three-dimensional cubes move with music using Three.js and web audio.
 - [Tonalhub](https://alemangui.github.io/Tonalhub/)<sup>[*](#disclosure)</sup> - Hear a web audio representation of the last year's commit activity of a given GitHub user and repository.
+- [Tweet FM](https://tweet-fm.herokuapp.com/) - An interesting multimedia experiment combining Tweeter feeds and web audio in real time. 
 
 ## Other web audio lists and resources
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
