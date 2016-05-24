@@ -1,4 +1,4 @@
-# HTML5 Web audio resources
+<img align="center" src="https://alemangui.github.io/web-audio-resources/header.jpg" alt="Web audio resources">
 
 This is a list of curated resources related to the [Web audio API](http://webaudio.github.io/web-audio-api/). Browser support for the web audio API can be found [here](http://caniuse.com/#feat=audio-api).
 
@@ -68,3 +68,5 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Output Channel](http://outputchannel.com) - A blog featuring Web Audio tutorials and demos/reviews.
 
 <a name="disclosure">*</a>: Full disclosure: I am the author of these items.
+
+The images used in the header of this file were created by Dale Humphries and Yorlmar Campos from the Noun Project.
