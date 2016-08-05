@@ -15,8 +15,9 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Guitar tuner tutorial](https://aerotwist.com/blog/guitar-tuner/) - Create a guitar tuner with web audio and Polymer
 - [Synthesizing tones with Fourier transforms](http://www.sitepoint.com/using-fourier-transforms-web-audio-api/) - Sound generation with oscillators and Fourier transforms.
 - [Web MIDI API and Web Audio tutorial](http://www.toptal.com/web/creating-browser-based-audio-applications-controlled-by-midi-hardware) - Basic tutorial to create a simple synthesizer controlled by MIDI hardware.
-- [The Web Audio API from Node to the browser](http://www.willvillanueva.com/the-web-audio-api-from-nodeexpress-to-your-browser/) Tutorial on serving audio files from Node/Express and consuming them in the browser.
+- [The Web Audio API from Node to the browser](http://www.willvillanueva.com/the-web-audio-api-from-nodeexpress-to-your-browser/) - Tutorial on serving audio files from Node/Express and consuming them in the browser.
 - [Beat detection using Javascript](http://tech.beatport.com/2014/web-audio/beat-detection-using-web-audio/) - How to detect beats and tempo using the web audio API.
+- [Javascript Air episode on Web Audio](https://javascriptair.com/episodes/2016-07-27/) - An overview at audio programming with JavaScript and an introduction to some tools and frameworks.
 
 ## Libraries
 - [Howler.js](https://github.com/goldfire/howler.js) - Web audio library. Falls back to HTML5 Audio.
