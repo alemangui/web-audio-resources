@@ -18,7 +18,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [The Web Audio API from Node to the browser](http://www.willvillanueva.com/the-web-audio-api-from-nodeexpress-to-your-browser/) - Tutorial on serving audio files from Node/Express and consuming them in the browser.
 - [Beat detection using Javascript](http://tech.beatport.com/2014/web-audio/beat-detection-using-web-audio/) - How to detect beats and tempo using the web audio API.
 - [Javascript Air episode on Web Audio](https://javascriptair.com/episodes/2016-07-27/) - An overview at audio programming with JavaScript and an introduction to some tools and frameworks.
-- [Slack's web audio channel](https://web-audio.slack.com/) - A friendly slack channel of people interested in web audio.
+- [Slack's web audio channel](https://web-audio-slackin.herokuapp.com/) - A friendly slack channel of people interested in web audio.
 
 ## Libraries
 - [Howler.js](https://github.com/goldfire/howler.js) - Web audio library. Falls back to HTML5 Audio.
