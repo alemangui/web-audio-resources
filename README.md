@@ -69,6 +69,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Web Audio/MIDI Demo List](http://webaudio.github.io/demo-list/) - A list kept by the W3C audio working group.
 - [10 Virtual Instruments on Browser](http://www.hongkiat.com/blog/virtual-instrument-web-browser/) - 10 Virtual Instruments You Can Play In Your Web Browser.
 - [Output Channel](http://outputchannel.com) - A blog featuring Web Audio tutorials and demos/reviews.
+- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - A list focusing on visualization but also including general web audio libraries, projects, videos and influential people to follow.
 
 <a name="disclosure">*</a>: Full disclosure: I am the author of these items.
 
