@@ -61,6 +61,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Tweet FM](https://tweet-fm.herokuapp.com/) - An interesting multimedia experiment combining Tweeter feeds and web audio in real time. 
 - [Mod-synth](http://mod-synth.io) - A visual synthesizer with several components and presets. It can also be used with a MIDI controller.
 - [The Rick Astley Remix](http://dinahmoelabs.com/rickastley) - Remix Rick Astley's most famous song into different styles.
+- [Theremin](https://femurdesign.com/theremin/) - Another Theremin with delays, feedbacks and scuzz
 
 ## Other web audio lists and resources
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
