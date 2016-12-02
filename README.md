@@ -56,7 +56,6 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Pedalboard](https://github.com/dashersw/pedalboard.js) - Guitar pedal effects simulation.
 - [Wave-PD1](http://alxgbsn.co.uk/wavepad/) - A themerin-like instrument for the browser.
 - [Wavepot](http://wavepot.com/) - A live digital signal processor (DSP) editor built with web audio.
-- [Dancing cube](http://dancing-cube.neribarnini.me/) - Three-dimensional cubes move with music using Three.js and web audio.
 - [Tonalhub](https://alemangui.github.io/Tonalhub/)<sup>[*](#disclosure)</sup> - Hear a web audio representation of the last year's commit activity of a given GitHub user and repository.
 - [Tweet FM](https://tweet-fm.herokuapp.com/) - An interesting multimedia experiment combining Tweeter feeds and web audio in real time. 
 - [Mod-synth](http://mod-synth.io) - A visual synthesizer with several components and presets. It can also be used with a MIDI controller.
