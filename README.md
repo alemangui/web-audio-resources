@@ -64,6 +64,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Theremin](https://femurdesign.com/theremin/) - Another Theremin with delays, feedbacks and scuzz.
 - [Key-and-pad](http://keyandpad.com/) - A Web Audio synthesizer with a XY Pad to control effects.
 - [Musical Chord Progression Arpeggiator](http://codepen.io/jakealbaugh/full/qNrZyw/) - An app for creating arpeggios with different progressions and styles.
+- [D3 synth](http://roadtolarissa.com/synth/) - A D3 visualization that allows editing a sound loop.
 
 ## Other web audio lists and resources
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
