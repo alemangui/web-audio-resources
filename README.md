@@ -32,6 +32,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Theresa's sound world](https://github.com/stuartmemo/theresas-sound-world) - Library for manipulating audio built on top of the web audio API.
 - [Musical](https://github.com/PencilCode/musical.js) - A light library with a sequencing synthesizer that supports ABC notation.
 - [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
+- [gibber.lib.js](http://charlie-roberts.com/gibber/gibber-lib-js) - Library version of [Gibber](http://gibber.mat.ucsb.edu)
 
 ## Visualization
 - [Wavesurfer.js](http://wavesurfer-js.org/) - Waveform audio visualization built on top of Web Audio API and HTML5 Canvas.
@@ -65,6 +66,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Key-and-pad](http://keyandpad.com/) - A Web Audio synthesizer with a XY Pad to control effects.
 - [Musical Chord Progression Arpeggiator](http://codepen.io/jakealbaugh/full/qNrZyw/) - An app for creating arpeggios with different progressions and styles.
 - [D3 synth](http://roadtolarissa.com/synth/) - A D3 visualization that allows editing a sound loop.
+- [Gibber](http://gibber.mat.ucsb.edu) - is an audiovisual live coding environment for the browser ([github](https://github.com/charlieroberts/Gibber))
 
 ## Other web audio lists and resources
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
