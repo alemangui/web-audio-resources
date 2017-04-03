@@ -39,6 +39,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Peaks.js](https://github.com/bbcrd/peaks.js) - JavaScript UI component created by the BBC for interacting with waveforms.
 - [Party mode](https://github.com/preziotte/party-mode) - An audio visualizer powered by d3.js and the web audio api.
 - [Audiograph](http://audiograph.xyz/) - A visualization of Pilotpriest'S 2016 album and one of the winners of the Dolby Web Challenge.
+- [Web Audio Inspector](https://github.com/google/audion) - A debugging tool that visualizes the Web Audio API graph of a web page in real time.
 
 ## Synths
 - [Websynths](http://websynths.com/) - Web synthesizer by Mitch Wells.
