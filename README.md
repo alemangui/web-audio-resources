@@ -79,6 +79,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [10 Virtual Instruments on Browser](http://www.hongkiat.com/blog/virtual-instrument-web-browser/) - 10 Virtual Instruments You Can Play In Your Web Browser.
 - [Output Channel](http://outputchannel.com) - A blog featuring Web Audio tutorials and demos/reviews.
 - [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - A list focusing on visualization but also including general web audio libraries, projects, videos and influential people to follow.
+- [Some of the Best Music Pens on CodePen](https://blog.codepen.io/2017/03/17/best-music-pens-codepen/) - A list that includes the best audio-related projects in CodePen.
 
 <a name="disclosure">*</a>: Full disclosure: I am the author of these items.
 
