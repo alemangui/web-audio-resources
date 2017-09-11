@@ -69,6 +69,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Musical Chord Progression Arpeggiator](http://codepen.io/jakealbaugh/full/qNrZyw/) - An app for creating arpeggios with different progressions and styles.
 - [D3 synth](http://roadtolarissa.com/synth/) - A D3 visualization that allows editing a sound loop.
 - [Gibber](http://gibber.mat.ucsb.edu) - is an audiovisual live coding environment for the browser ([github](https://github.com/charlieroberts/Gibber))
+- [Winamp2-js](https://jordaneldredge.com/projects/winamp2-js/) - A reimplementation of Winamp 2.9 using the Web Audio API. [GitHub](https://github.com/captbaritone/winamp2-js)
 
 ## Other web audio lists and resources
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
