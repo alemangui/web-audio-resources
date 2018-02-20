@@ -72,6 +72,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Winamp2-js](https://jordaneldredge.com/projects/winamp2-js/) - A reimplementation of Winamp 2.9 using the Web Audio API. [GitHub](https://github.com/captbaritone/winamp2-js)
 - [Web audio modem](https://martinmelhus.com/web-audio-modem/) - A project showing how to encode and decode data using the web audio API
 - [Music mouse](https://teropa.info/musicmouse/) - A partial emulation by Tero Parviainen of Laurie Spiegel's "Music Mouse - An Intelligent Instrument".
+- [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more ([download](https://audionodes.com/download), [online version](https://audionodes.com/online))
 
 ## Other web audio lists and resources
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
