@@ -34,6 +34,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Musical](https://github.com/PencilCode/musical.js) - A light library with a sequencing synthesizer that supports ABC notation.
 - [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 - [gibber.lib.js](http://charlie-roberts.com/gibber/gibber-lib-js) - Library version of [Gibber](http://gibber.mat.ucsb.edu)
+- [XSound](https://github.com/Korilakkuma/XSound) - Web Audio API Library for Synths, Visualization, Effects ... etc
 
 ## Visualization
 - [Wavesurfer.js](http://wavesurfer-js.org/) - Waveform audio visualization built on top of Web Audio API and HTML5 Canvas.
@@ -47,6 +48,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [JS Dynamic Audio Synth](http://www.keithwhor.com/music/) - A musical keyboard by Keith William Horwood.
 - [106.js](http://resistorsings.com/106/) - Emulation of the classic Roland Juno-106 analog synthesizer.
 - [Midi synth](http://webaudiodemos.appspot.com/midi-synth/) - Analog synthesizer simulation loosely based on the architecture of a Moog Prodigy synthesizer.
+- [X Sound](https://korilakkuma.github.io/X-Sound/) - Web Synthesizer by [XSound](https://github.com/Korilakkuma/XSound).
 
 ## Fun and interesting projects
 - [Chrome music lab](https://musiclab.chromeexperiments.com/) - Web Audio experiments aimed at making learning music more accessible to everyone.
