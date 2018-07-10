@@ -75,6 +75,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Web audio modem](https://martinmelhus.com/web-audio-modem/) - A project showing how to encode and decode data using the web audio API
 - [Music mouse](https://teropa.info/musicmouse/) - A partial emulation by Tero Parviainen of Laurie Spiegel's "Music Mouse - An Intelligent Instrument".
 - [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more ([download](https://audionodes.com/download), [online version](https://audionodes.com/online))
+- [Psyren Audio / Visual Synthesizer](http://www.bolasol.com/psyren/) - interactively generate psytrance squelches ([github](https://github.com/kbola/psyren))
 
 ## Other web audio lists and resources
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
